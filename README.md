@@ -28,7 +28,7 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 
 ## Резюме
-Ссылка
+[PDF](https://drive.google.com/file/d/1opvS1ZiitX362fHiG_QyNjTS3znQcXSd/view?usp=share_link) | [HH.ru](https://ekaterinburg.hh.ru/resume/d0302c4cff07ca287e0039ed1f664854447964)
 
 ## Портфолио
 - &nbsp; [Чек-лист](https://docs.google.com/spreadsheets/d/1vx2_0zpk0MXh1ZzdHi1J2kDRWg_DW91FJ-Urgfe-scY/edit?usp=sharing)
