@@ -31,10 +31,11 @@
 Ссылка
 
 ## Портфолио
-- &nbsp; Чек-лист 
-- &nbsp; Тест-кейс
-- &nbsp; Баг-репорт
-- &nbsp; Коллекция Postman
+- &nbsp; [Чек-лист](https://docs.google.com/spreadsheets/d/1vx2_0zpk0MXh1ZzdHi1J2kDRWg_DW91FJ-Urgfe-scY/edit?usp=sharing)
+- &nbsp; [Тест-кейс](https://docs.google.com/spreadsheets/d/1bBeIX1g3cwGNab0jTLLPT8CR6yOdeOEGdwdfeSJQGlM/edit?usp=sharing)
+- &nbsp; [Баг-репорт](https://docs.google.com/spreadsheets/d/1WF9UBxsLk59tM4ixy794OZuMU1qiPiC6eTJYjfSobm0/edit?usp=sharing)
+- &nbsp; [Доска Jira](https://za19.atlassian.net/jira/software/c/projects/DIPLOM/boards/3?atlOrigin=eyJpIjoiMzEwYTI5NDlkOGY4NGJjMjgwOTk3YjcxMTk5YTVkZjIiLCJwIjoiaiJ9)
+- &nbsp; [Коллекция Postman](https://drive.google.com/drive/folders/1DiZECox62fVqwWKPkEGxEUyGw0maRATs?usp=share_link)
 - &nbsp; SQL запросы
 
 <div align="center" >
